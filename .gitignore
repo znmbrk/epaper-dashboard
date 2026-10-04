@@ -1,0 +1,7 @@
+# PlatformIO build output
+.pio/
+# Python venv (local dev)
+host/.venv/
+__pycache__/
+*.pyc
+.DS_Store
