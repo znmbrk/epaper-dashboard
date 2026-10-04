@@ -5,3 +5,5 @@ host/.venv/
 __pycache__/
 *.pyc
 .DS_Store
+# WiFi credentials — never commit
+src/secrets.h
